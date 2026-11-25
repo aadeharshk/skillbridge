@@ -2,7 +2,7 @@
 
 Upload a resume, paste one or more job descriptions, and get a **match score**, the **required skills you're missing**, and, for every JD requirement, **the resume line that best backs it up**. Rank several jobs at once to decide where to apply first.
 
-**Live demo:** _add your Streamlit Cloud link here_ · **Stack:** Python, NLP (rule-based skill extraction), sentence embeddings (all-MiniLM-L6-v2 via ONNX), NumPy, Streamlit
+**Live demo:** [aadeharshk-skillbridge-app-smvgqm.streamlit.app](https://aadeharshk-skillbridge-app-smvgqm.streamlit.app) · **Stack:** Python, NLP (rule-based skill extraction), sentence embeddings (all-MiniLM-L6-v2 via ONNX), NumPy, Streamlit
 
 ## Results
 
