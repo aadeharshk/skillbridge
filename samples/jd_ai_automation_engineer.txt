@@ -1,0 +1,18 @@
+AI Automation Engineer (Sample JD, fictional company)
+
+Responsibilities
+- Build workflow automations with n8n and Zapier that connect CRMs, email and internal tools.
+- Develop LLM-powered features such as RAG chatbots and AI agents using LangChain and the OpenAI API.
+- Integrate third-party services through REST APIs and webhooks.
+- Write Python scripts to automate repetitive business processes and measure time saved.
+
+Requirements
+- 1+ years of experience in automation or software development.
+- Proficiency in Python and working with APIs.
+- Experience with at least one workflow automation tool (n8n, Zapier or Make.com).
+- Understanding of LLMs, prompt engineering and retrieval-augmented generation.
+- Strong communication skills to work with non-technical teams.
+
+Good to have
+- Experience with vector databases such as Pinecone or ChromaDB.
+- Experience with Docker and cloud deployment on AWS.

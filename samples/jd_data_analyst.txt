@@ -1,0 +1,18 @@
+Data Analyst (Sample JD, fictional company)
+
+Responsibilities
+- Build and maintain Power BI dashboards for sales and operations leadership.
+- Write SQL queries to extract and analyse data from our data warehouse.
+- Track business KPIs and present insights to stakeholders every week.
+- Clean and validate data to ensure reporting accuracy.
+
+Requirements
+- 1-2 years of experience as a data analyst.
+- Strong SQL and advanced Excel skills.
+- Hands-on experience with Power BI or Tableau.
+- Basic Python (Pandas) for data analysis.
+- Good understanding of statistics and A/B testing.
+
+Preferred
+- Experience in e-commerce or logistics.
+- Familiarity with Google BigQuery.

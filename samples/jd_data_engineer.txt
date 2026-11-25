@@ -1,0 +1,20 @@
+Data Engineer (Sample JD, fictional company)
+
+What you'll do
+- Design, build and maintain batch ETL pipelines that move data from operational databases into our cloud data warehouse.
+- Write efficient SQL and Python to transform raw data into clean, well-modelled tables for analytics.
+- Orchestrate pipelines with Apache Airflow and monitor data quality and freshness.
+- Work with analysts and business stakeholders to understand reporting needs.
+
+Requirements
+- 1-3 years of experience in data engineering or data analytics.
+- Strong SQL and Python skills.
+- Experience with PostgreSQL or MySQL.
+- Hands-on experience with a cloud platform, preferably AWS (S3, Glue, Redshift).
+- Understanding of data modelling (star schema) and data warehousing concepts.
+- Familiarity with Git and version control.
+
+Nice to have
+- Experience with Apache Spark or PySpark.
+- Exposure to dbt or Snowflake.
+- Experience with Docker.

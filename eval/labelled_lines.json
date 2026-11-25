@@ -1,0 +1,184 @@
+[
+  {
+    "text": "Built ETL pipelines in Python and SQL that load data into Snowflake every hour.",
+    "skills": [
+      "ETL",
+      "Python",
+      "SQL",
+      "Snowflake"
+    ]
+  },
+  {
+    "text": "Experience with Java and Spring Boot microservices.",
+    "skills": [
+      "Java"
+    ]
+  },
+  {
+    "text": "Developed React dashboards in JavaScript and TypeScript.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Data Visualization"
+    ]
+  },
+  {
+    "text": "Created Power BI reports using DAX and Power Query for the finance team.",
+    "skills": [
+      "Power BI"
+    ]
+  },
+  {
+    "text": "Orchestrated jobs with Apache Airflow on AWS and stored files in S3.",
+    "skills": [
+      "Apache Airflow",
+      "AWS"
+    ]
+  },
+  {
+    "text": "Trained XGBoost and Random Forest models with scikit-learn for churn prediction.",
+    "skills": [
+      "XGBoost",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "text": "Built a RAG chatbot with LangChain, ChromaDB and the OpenAI API.",
+    "skills": [
+      "RAG",
+      "LangChain",
+      "Vector Databases",
+      "OpenAI API"
+    ]
+  },
+  {
+    "text": "Automated lead routing with n8n and Zapier using webhooks.",
+    "skills": [
+      "n8n",
+      "Zapier",
+      "REST APIs"
+    ]
+  },
+  {
+    "text": "Containerised services with Docker and deployed them on Kubernetes.",
+    "skills": [
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "text": "Analysed A/B test results using statistics in R.",
+    "skills": [
+      "Statistics",
+      "R",
+      "Data Analysis"
+    ]
+  },
+  {
+    "text": "Processed 2 TB of logs per day with PySpark on Databricks.",
+    "skills": [
+      "Apache Spark",
+      "Databricks"
+    ]
+  },
+  {
+    "text": "Designed a star schema data model for the sales data warehouse in BigQuery.",
+    "skills": [
+      "Data Modelling",
+      "Data Warehousing",
+      "BigQuery"
+    ]
+  },
+  {
+    "text": "Fine-tuned a BERT model with Hugging Face for text classification.",
+    "skills": [
+      "Fine-tuning",
+      "Hugging Face",
+      "NLP"
+    ]
+  },
+  {
+    "text": "Built object detection models with YOLO and OpenCV.",
+    "skills": [
+      "Computer Vision"
+    ]
+  },
+  {
+    "text": "Wrote stored procedures in SQL Server and tuned PostgreSQL queries.",
+    "skills": [
+      "SQL Server",
+      "PostgreSQL",
+      "SQL"
+    ]
+  },
+  {
+    "text": "Maintained advanced Excel trackers with VBA macros and pivot tables.",
+    "skills": [
+      "Excel"
+    ]
+  },
+  {
+    "text": "Built multi-agent workflows with LangGraph and prompt engineering.",
+    "skills": [
+      "LangGraph",
+      "AI Agents",
+      "Prompt Engineering"
+    ]
+  },
+  {
+    "text": "Forecasted demand with an LSTM time series model in PyTorch.",
+    "skills": [
+      "Time Series",
+      "PyTorch"
+    ]
+  },
+  {
+    "text": "Set up CI/CD with GitHub Actions and managed code in Git.",
+    "skills": [
+      "CI/CD",
+      "Git"
+    ]
+  },
+  {
+    "text": "Scraped product prices with Selenium and BeautifulSoup and served them through a FastAPI REST API.",
+    "skills": [
+      "Selenium",
+      "FastAPI",
+      "REST APIs"
+    ]
+  },
+  {
+    "text": "Worked in an Agile team using Jira and presented sprint results to stakeholders.",
+    "skills": [
+      "Agile",
+      "Stakeholder Management"
+    ]
+  },
+  {
+    "text": "Managed R&D budgets and vendor relationships.",
+    "skills": []
+  },
+  {
+    "text": "Cleaned and validated raw survey data with Pandas before building Tableau dashboards.",
+    "skills": [
+      "Data Cleaning",
+      "Pandas",
+      "Tableau",
+      "Data Visualization"
+    ]
+  },
+  {
+    "text": "Deployed models with MLflow and monitored drift in production.",
+    "skills": [
+      "MLOps"
+    ]
+  },
+  {
+    "text": "Built Looker Studio dashboards tracking marketing KPIs.",
+    "skills": [
+      "Looker",
+      "Data Visualization",
+      "KPI Reporting"
+    ]
+  }
+]

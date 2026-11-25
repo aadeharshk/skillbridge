@@ -1,0 +1,26 @@
+ANANYA RAO (Fictional sample candidate)
+Data Analyst | Pune
+
+SUMMARY
+Data analyst with 2 years of experience turning operational data into dashboards and automated reports for e-commerce and logistics teams.
+
+SKILLS
+Python (Pandas, NumPy), SQL (PostgreSQL, MySQL), Power BI (DAX), Tableau, Advanced Excel, Git, n8n, REST APIs
+
+EXPERIENCE
+Data Analyst, ShipQuick Logistics (2024 - Present)
+- Built Power BI dashboards tracking on-time delivery for 40,000 shipments a month across 12 warehouses.
+- Wrote SQL queries and Python scripts that clean raw order data and load it into PostgreSQL every night.
+- Automated the weekly operations report with n8n and the Google Sheets API, saving the team 6 hours a week.
+- Presented findings to warehouse managers and worked with the operations team to define delivery KPIs.
+
+Business Analyst Intern, CartKart (2023 - 2024)
+- Analysed customer purchase data in Excel and SQL to find the top reasons for returns.
+- Built a customer segmentation model with Scikit-learn k-means clustering on 50,000 customers.
+
+PROJECTS
+- Sales forecasting: predicted weekly sales with an LSTM time series model.
+- Built a small chatbot that answers questions over PDFs using LangChain and the OpenAI API.
+
+EDUCATION
+B.Tech Computer Science, 2023
